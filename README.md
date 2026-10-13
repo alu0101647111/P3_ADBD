@@ -1,7 +1,9 @@
 # P3_ADBD
 ## Imagen del modelo entidad/relación del escenario de viveros empleados en (i) formato .drawio y (ii) formato .png.
+![alt text](image.png)
 
 ## Imagen del diseño relacional realizado.
+![alt text](image-1.png)
 
 ## Script SQL generado para construir la base de datos (fichero con extensión .sql) PUEDE SER CON DBEAVER, CREAR UN ADMIN DE LA BASE DE DATOS
 
